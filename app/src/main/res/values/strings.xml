@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity_Basic</string>
+    <string name="send_data_to_secondactivity">Send Data to SecondActivity!</string>
+    <string name="send_data">Send Data</string>
+</resources>
